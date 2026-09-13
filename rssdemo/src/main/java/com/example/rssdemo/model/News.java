@@ -22,5 +22,4 @@ public class News {
         this.link = link;
     }
 
-
 }
